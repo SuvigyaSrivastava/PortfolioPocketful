@@ -14,11 +14,11 @@ export function Hero() {
     <section className="min-h-screen relative flex items-center justify-center overflow-hidden">
       <ParticleBackground />
       <div className="container mx-auto px-4 text-center text-white relative z-10">
-        <h1 className="text-5xl md:text-7xl font-bold mb-4">{profile.name}</h1>
-        <p className="text-xl md:text-2xl mb-8 text-blue-100">{profile.tagline}</p>
+        <h1 className="text-5xl md:text-7xl font-bold mb-4">{profile?.name}</h1>
+        <p className="text-xl md:text-2xl mb-8 text-blue-100">{profile?.tagline}</p>
         <div className="flex justify-center space-x-6 mb-8">
           {/* GitHub Icon */}
-          {profile.social.github && (
+          {profile?.social?.github && (
             <a
               href={profile.social.github}
               aria-label="GitHub Profile"
@@ -30,7 +30,7 @@ export function Hero() {
             </a>
           )}
           {/* LinkedIn Icon */}
-          {profile.social.linkedin && (
+          {profile?.social?.linkedin && (
             <a
               href={profile.social.linkedin}
               aria-label="LinkedIn Profile"

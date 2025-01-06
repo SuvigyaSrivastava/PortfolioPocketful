@@ -8,8 +8,7 @@ export const profile = {
   social: {
     github: "https://github.com/SuvigyaSrivastava",
     linkedin: "https://www.linkedin.com/in/suvigya-srivastava-134a8221a/",
-    facebook: "https://facebook.com",
-    instagram: "https://instagram.com"
+   
   },
   experience: [
     {
