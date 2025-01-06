@@ -44,15 +44,10 @@ PostCSS: For handling custom styles.
 
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/4dc22f0e-9d9e-449f-8b49-52590631f89a)
 
 
-License
+## License
 This project is licensed under the MIT License.
-
-arduino
-Copy code
-
-Copy and paste this content into your `README.md` file, and it’s ready for use!
-
 
 
