@@ -10,11 +10,6 @@ This is a portfolio website built using **Next.js**, showcasing projects, skills
 - Modular and reusable components for easy maintenance.
 - Optimized for SEO and accessibility.
 
-## Deployment
-
-The portfolio is deployed on [Vercel](https://vercel.com).
-
-**Live Demo:** [View Portfolio](https://your-portfolio.vercel.app)
 
 ## Running Locally
 
