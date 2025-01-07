@@ -28,7 +28,7 @@ export function Contact() {
         <h2 className="text-3xl font-bold text-center mb-12">Get In Touch</h2>
         <div className="max-w-2xl mx-auto">
           <p className="text-center text-gray-600 mb-8">
-            I'm currently looking for full-time React Developer/Frontend Developer opportunities!
+            I am currently looking for full-time React Developer/Frontend Developer opportunities!
             If you know of any positions available, if you have any questions, or if you just
             want to say hi, please feel free to email me at{" "}
             <a href={`mailto:${profile.email}`} className="text-blue-600 hover:underline">
